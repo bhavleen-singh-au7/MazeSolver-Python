@@ -1,7 +1,7 @@
 # AttainU Python Project
 ```
 Project Name : Maze Solver 
-Auther : Bhavleen Singh Manaktala 
+Author : Bhavleen Singh Manaktala 
 Author Email : singhbhavleen3@gmail.com
 ```
 [Question Link](https://docs.google.com/document/d/1reuKwhN8QLKJnqondL8vAnEvBFtexblLBgKJn1kT1N8/edit 'Maze Solver Problem')
